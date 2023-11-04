@@ -5,7 +5,7 @@ function register(){
     var password = document.getElementById("password");
 
     if(name.value === "")
-    {d
+    {
         alert("Name is required..")
     }
 
