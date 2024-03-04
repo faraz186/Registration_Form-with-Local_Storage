@@ -21,7 +21,7 @@ function register(){
         alert(`${name.value} Register SuccessFully..`)
 
         var storageData = localStorage.getItem("userData");
-
+   
         storageData = JSON.parse(storageData);
 
 
