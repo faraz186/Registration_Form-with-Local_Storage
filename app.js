@@ -15,7 +15,7 @@ function register(){
 
     else if(password.value === "")
     {
-        alert("password is required..")
+        alert("password is required..")   
     }   
     else{
         alert(`${name.value} Register SuccessFully..`)
