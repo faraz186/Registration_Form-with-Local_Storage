@@ -13,7 +13,7 @@ function register(){
         alert("email is required..")   
     }
 
-    else if(password.value === "")
+    else if(password.value === "")   
     {
         alert("password is required..")      
     }   
