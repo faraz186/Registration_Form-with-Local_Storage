@@ -3,7 +3,7 @@ function register(){
     var email = document.getElementById("email");
     var password = document.getElementById("password");
    
-    if(name.value === "")
+    if(name.value === "")   
     {  
         alert("Name is required..")   
     }   
