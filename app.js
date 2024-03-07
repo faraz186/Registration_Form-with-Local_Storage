@@ -18,7 +18,7 @@ function register(){
         alert("password is required..")      
     }   
     else{
-        alert(`${name.value} Register SuccessFully..`)
+        alert(`${name.value} Register SuccessFully..`)   
 
         var storageData = localStorage.getItem("userData");
    
