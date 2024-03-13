@@ -6,7 +6,7 @@ function register(){
     if(name.value === "")   
     {  
         alert("Name is required..")   
-    }      
+    }         
 
     else if(email.value === "")
     {   
