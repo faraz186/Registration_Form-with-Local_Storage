@@ -38,7 +38,7 @@ function register(){
     
         storageData.push(userData)
          
-        localStorage.setItem("userData",JSON.stringify(storageData));
+        localStorage.setItem("userData",JSON.stringify(storageData));  
 
         setTimeout(function(){
             window.location.href = './Dashboard.html'
