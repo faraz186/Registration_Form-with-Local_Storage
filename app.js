@@ -40,7 +40,7 @@ function register(){
          
         localStorage.setItem("userData",JSON.stringify(storageData));  
 
-        setTimeout(function(){
+        setTimeout(function(){   
             window.location.href = './Dashboard.html'
         }, 1000);
     }
