@@ -48,7 +48,7 @@ function register(){
 }
 
 function getData()
-{
+{   
     var data = document.getElementById("getData");
     var getDataFromLocalStorage = JSON.parse(localStorage.getItem("userData"));
     console.log(getDataFromLocalStorage)
