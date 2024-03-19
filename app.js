@@ -61,7 +61,7 @@ function getData()
 getData()
 
 function logout(){
-    setTimeout(function()
+    setTimeout(function()   
     {
         window.location.href = './signUp.html'
     },1000)
