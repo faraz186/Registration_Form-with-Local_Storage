@@ -25,7 +25,7 @@ function register(){
         storageData = JSON.parse(storageData);
 
 
-        if(!storageData)  
+        if(!storageData)     
         {       
             storageData = []   
         }
