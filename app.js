@@ -29,7 +29,7 @@ function register(){
         {       
             storageData = []
         }
-
+    
         var userData = {
             name : name.value,
             email: email.value,
