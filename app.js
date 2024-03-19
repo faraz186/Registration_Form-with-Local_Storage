@@ -26,7 +26,7 @@ function register(){
 
 
         if(!storageData)
-        {   
+        {       
             storageData = []
         }
 
