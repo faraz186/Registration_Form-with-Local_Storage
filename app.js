@@ -37,7 +37,7 @@ function register(){
         }
     
         storageData.push(userData)
-    
+         
         localStorage.setItem("userData",JSON.stringify(storageData));
 
         setTimeout(function(){
