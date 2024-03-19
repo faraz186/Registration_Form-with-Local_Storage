@@ -27,7 +27,7 @@ function register(){
 
         if(!storageData)
         {       
-            storageData = []
+            storageData = []   
         }
     
         var userData = {
